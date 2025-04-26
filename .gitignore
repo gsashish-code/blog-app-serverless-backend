@@ -40,3 +40,4 @@ junit.xml
 .idea/
 *.swp
 **/generated/prisma/
+backend/wrangler.jsonc
