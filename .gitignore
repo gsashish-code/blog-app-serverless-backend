@@ -41,3 +41,4 @@ junit.xml
 *.swp
 **/generated/prisma/
 backend/wrangler.jsonc
+/backend/wrangler.jsonc
