@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+**/dist/
+**/build/
+
+# Environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Coverage reports
+coverage/
+**/coverage/
+
+# Output from testing
+junit.xml
+
+# Optional: OS specific
+.idea/
+*.swp
+**/generated/prisma/
